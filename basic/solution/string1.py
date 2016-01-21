@@ -6,6 +6,8 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
+# Translated to python3 wltrimbl 2016
+
 # Basic string exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,

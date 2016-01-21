@@ -6,6 +6,8 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
+# Translated to python3 wltrimbl 2016
+
 # Additional basic list exercises
 
 # D. Given a list of numbers, return a list where

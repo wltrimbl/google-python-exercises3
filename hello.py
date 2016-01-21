@@ -5,6 +5,10 @@
 
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
+#
+# Translated to python3 wltrimbl 2016
+
+# Translated to python3 wltrimbl 2016
 
 """A tiny Python program to check that Python is working.
 Try running this program from the command line like this:

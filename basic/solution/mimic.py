@@ -6,6 +6,8 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
+# Translated to python3 wltrimbl 2016
+
 """Mimic pyquick exercise -- optional extra exercise.
 Google's Python Class
 
